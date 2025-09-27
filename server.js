@@ -14,14 +14,15 @@ app.use(router);
 
 
 
-app.listen(7000 , () => {
+// app.listen(7000 , () => {
 
-    console.log("Server is LIVE on Port 7000");
+//     console.log("Server is LIVE on Port 7000");
     
 
-})
+// })
 
 
+module.exports = app
 
 
 
